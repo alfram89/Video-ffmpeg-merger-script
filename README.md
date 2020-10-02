@@ -1,3 +1,3 @@
 # Video-ffmpeg-merger-script
 
-Change script after videotype and path to ffmpeg.
+Adapt script for videotype and path to ffmpeg.
